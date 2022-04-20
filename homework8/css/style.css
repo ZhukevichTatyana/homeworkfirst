@@ -1,0 +1,23 @@
+
+.result {
+    font-size: 24px;
+    font-weight: bold;
+}
+.error {
+    font-size: 24px;
+    color: red;
+    display: none;
+}
+.error.active {
+    display: block;
+}
+input{
+    font-size: 24px;
+}
+.btn{
+    font-size: 24px;
+
+}
+#select{
+    font-size: 24px;
+}
