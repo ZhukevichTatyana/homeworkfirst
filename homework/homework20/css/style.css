@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+}
+.task-list{
+    width: 40%;
+    font-size: 20px;      
+}
+
+#imgList {
+    width: 60%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;     
+    height: 150px;
+}
