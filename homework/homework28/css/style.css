@@ -1,0 +1,26 @@
+*{
+    margin: 20;
+    padding: 20;
+}
+body{
+    width: 1000px;
+    margin: 0 auto;
+  
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+input {
+    padding: 15px 15px;
+    margin-top: 10px;
+  
+}
+#sendBtn{
+    width: 50%;
+    padding: 15px 15px;
+    margin-top: 10px;
+    background: lightblue;
+    cursor: pointer;
+}
